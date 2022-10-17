@@ -1,0 +1,23 @@
+.conteneur{
+    display: grid;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+#titre{
+    text-align: center;
+}
+
+.conteneur1{
+    margin-bottom: 10px;
+    padding: 9px;
+    border-radius: 9px;
+    border: 1px #000 solid;
+}
+
+.conteneur2{
+    background-color: #3a9d23;
+    border-color: #2a9d23;
+    margin-top: 10px;
+    border-radius: 20px;
+    padding: 9px;
+}
